@@ -1,5 +1,7 @@
 ---
-name: "Sonatype Guide"
+name: "sonatyp-guide"
+displayName: "Sonatype Guide"
+author: "Sonatype"
 description: "Research component versions, check for latest releases, and get upgrade recommendations"
 keywords: ["sonatype", "component", "dependency", "dependencies", "version", "versions", "security", "vulnerability", "vulnerabilities", "license", "licensing", "npm", "maven", "upgrade", "nexus", "package", "packages", "supply chain", "cve", "outdated", "update", "patch", "artifact", "library", "libraries", "pypi", "nuget", "gradle", "pom", "cargo", "rust", "cocoapods", "swift", "composer", "php", "conan", "conda", "cran", "alpine", "bower", "debian", "drupal", "rpm", "rubygems", "ruby", "golang", "go"]
 mcpServers:
@@ -277,3 +279,6 @@ Sonatype Guide supports components from these package ecosystems:
 - **CMS**: Drupal modules
 
 Use the appropriate package URL format for your ecosystem (e.g., `pkg:npm/`, `pkg:maven/`, `pkg:pypi/`).
+
+
+## License
