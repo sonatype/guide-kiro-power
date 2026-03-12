@@ -282,3 +282,4 @@ Use the appropriate package URL format for your ecosystem (e.g., `pkg:npm/`, `pk
 
 
 ## License
+Eclipse Public License - v 1.0
