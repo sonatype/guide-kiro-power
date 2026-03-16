@@ -1,5 +1,5 @@
 ---
-name: "sonatyp-guide"
+name: "sonatype-guide"
 displayName: "Sonatype Guide"
 author: "Sonatype"
 description: "Research component versions, check for latest releases, and get upgrade recommendations"
